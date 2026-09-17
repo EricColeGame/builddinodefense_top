@@ -6,7 +6,14 @@
     "description": "Your ultimate guide to Build a Dino Defense on Roblox! Explore active codes, base building, traps, turrets, dinosaur waves, and egg defense strategies.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "combat": "Combat",
+    "progression": "Progression",
+    "controls": "Controls",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Build a Dino Defense Wiki - Codes, Guide & Tier List",
@@ -450,5 +457,29 @@
     "buildGuide": "Defense Strategies",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Build a Dino Defense Guides & Walkthroughs",
+    "overviewDescription": "Explore essential beginner tips, wave survival walkthroughs, and boss strategies for Build a Dino Defense."
+  },
+  "mechanics": {
+    "overviewTitle": "Build a Dino Defense Core Mechanics & Systems",
+    "overviewDescription": "Deep dive into base fortification, dinosaur attributes, turret mechanisms, and defense systems in Build a Dino Defense."
+  },
+  "combat": {
+    "overviewTitle": "Build a Dino Defense Combat & Boss Battles",
+    "overviewDescription": "Master dinosaur wave defenses, boss encounters, giant dino attacks, and defensive tactics in Build a Dino Defense."
+  },
+  "progression": {
+    "overviewTitle": "Build a Dino Defense Progression & Leveling",
+    "overviewDescription": "Follow level milestones, boss phase progressions, and defense expansion routes in Build a Dino Defense."
+  },
+  "controls": {
+    "overviewTitle": "Build a Dino Defense Controls & Gameplay Guide",
+    "overviewDescription": "Learn hotkeys, building controls, and multiplayer setup to smoothly play Build a Dino Defense."
+  },
+  "community": {
+    "overviewTitle": "Build a Dino Defense Community & Discord",
+    "overviewDescription": "Connect with fellow dino defenders, join Discord servers, and stay updated on the Build a Dino Defense community."
   }
 }
