@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Complete Guides, Codes, Turrets & Defense Strategies",
   description: "Your ultimate guide to Build a Dino Defense on Roblox! Explore active codes, base building, traps, turrets, dinosaur waves, and egg defense strategies.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://builddinodefense.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://builddinodefense.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@builddinodefense.top",
   gameUrl: "https://www.roblox.com/games/138949299666923/Build-a-Dino-Defense",
   heroVideoId: "Iosr4aVui5E", // Roblox Build a Dino Defense gameplay showcase video
   social: {
