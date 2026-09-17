@@ -1,1 +1,403 @@
-{}
+{
+  "site": {
+    "name": "builddinodefense Wiki",
+    "shortName": "builddinodefense",
+    "tagline": "ビッグチョンプゲームズの恐竜タワーディフェンス攻略ガイド",
+    "description": "Robloxの人気タワーディフェンスゲーム「Build a Dino Defense」の完全攻略Wiki。トラップ配置、タレット強化、恐竜の波の撃退、恐竜の卵防衛、最新コード情報をお届けします。",
+    "legalNotice": "当サイトはファンコミュニティによる非公式Wikiです。Roblox CorporationおよびBig Chomp Gamesとは一切関係ありません。"
+  },
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "combat": "Combat",
+    "progression": "Progression",
+    "controls": "Controls",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Build a Dino Defense Wiki — Roblox恐竜タワーディフェンス攻略",
+      "description": "Robloxのタワーディフェンス名作「Build a Dino Defense」の完全攻略Wiki。トラップ配置、砲塔防衛、恐竜ウェーブ撃破、卵の保護ガイド。"
+    },
+    "hero": {
+      "eyebrow": "Fan-Made Community Wiki",
+      "title": "Build a Dino Defense Wiki",
+      "description": "防壁を築き、タレットを配置し、凶暴な恐竜の群れから大切な恐竜の卵を守り抜け！最大6人協力対応の戦略的タワーディフェンス完全データベース。",
+      "stats": [
+        "3.3M+ Visits",
+        "2.4K+ Online",
+        "2.4K+ Peak CCU",
+        "86.8% Rating"
+      ],
+      "primaryCta": "今すぐRobloxでプレイ",
+      "secondaryCta": "初心者ガイドを見る",
+      "tertiaryCta": "Active Codes",
+      "videoLabel": "Official media"
+    },
+    "updates": {
+      "title": "最近のアップデート",
+      "browse": "Browse All Guides",
+      "viewAll": "すべての更新を見る"
+    },
+    "start": [
+      {
+        "step": "ステップ 01",
+        "title": "要塞の基礎壁を建築",
+        "description": "初期資金を使って恐竜の卵の周囲に頑丈な防壁を配置し、敵恐竜の直接接近を阻止します。",
+        "badge": "基本防御",
+        "link": "/guide/getting-started",
+        "buttonText": "建築ガイドを読む"
+      },
+      {
+        "step": "ステップ 02",
+        "title": "トラップ＆タレットの設置",
+        "description": "敵の侵入ルートにスパイクや砲塔を配備し、接近する恐竜に継続ダメージを与えます。",
+        "badge": "火力配置",
+        "link": "/mechanics/trap-placement",
+        "buttonText": "配置のコツを見る"
+      },
+      {
+        "step": "ステップ 03",
+        "title": "武器クレートの回収と装備",
+        "description": "クレートを開けて銃器や近接武器を手に入れ、プレイヤー自身も迎撃戦に参加します。",
+        "badge": "武器強化",
+        "link": "/combat/weapons-crates",
+        "buttonText": "武器データを見る"
+      },
+      {
+        "step": "ステップ 04",
+        "title": "卵の保護とウェーブクリア",
+        "description": "チームメイトと連携して恐竜の波を撃退し、得たキャッシュで防衛設備をさらにアップグレードします。",
+        "badge": "協力サバイバル",
+        "link": "/progression/base-upgrades",
+        "buttonText": "アップグレード一覧"
+      }
+    ],
+    "popular": [
+      {
+        "title": "最強防衛タレット配置パターン",
+        "description": "恐竜の波を効率よく殲滅するためのチョークポイント形成とタレット射程最適化ガイド。",
+        "badge": "人気攻略",
+        "readTime": "読了目安 4分",
+        "link": "/mechanics/turret-optimization"
+      },
+      {
+        "title": "恐竜の波次別攻略と弱点属性",
+        "description": "小型ラプターから巨大恐竜まで、ウェーブごとに登場する恐竜の攻撃パターンと対処法。",
+        "badge": "戦闘解説",
+        "readTime": "読了目安 5分",
+        "link": "/combat/dino-waves-strategy"
+      },
+      {
+        "title": "効率的なキャッシュ稼ぎと基地強化",
+        "description": "序盤から中盤にかけて資金を最速で蓄積し、拠点を強固にする育成ロードマップ。",
+        "badge": "育成ガイド",
+        "readTime": "読了目安 6分",
+        "link": "/progression/cash-farming"
+      }
+    ],
+    "aboutGame": {
+      "title": "Build a Dino Defenseとは？",
+      "paragraphs": [
+        "Build a Dino Defense is an action-packed cooperative strategy and tower defense experience on Roblox developed by Big Chomp Games. Players team up in servers of up to 6 to construct impenetrable fortifications, lay tactical traps, install automated turrets, and battle relentless waves of ravenous dinosaurs to protect their precious egg.",
+        "Whether you are placing your first wooden barricade, cracking open high-tier weapon crates to blast raptors, or mastering complex maze layouts against giant dinosaur bosses, our wiki covers every system with verified stats, tier rankings, and battle-tested strategies."
+      ],
+      "stats": [
+        {
+          "label": "Developer",
+          "value": "Big Chomp Games"
+        },
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Tower Defense & Strategy"
+        },
+        {
+          "label": "Total Visits",
+          "value": "3.3M+"
+        },
+        {
+          "label": "Server Size",
+          "value": "6 Players"
+        },
+        {
+          "label": "User Rating",
+          "value": "86.8%"
+        },
+        {
+          "label": "Peak CCU",
+          "value": "2.4K+"
+        }
+      ],
+      "cta": "Explore All Guides"
+    },
+    "explore": {
+      "title": "防衛システムの探求",
+      "description": "タレット、トラップ、恐竜の波、拠点構築のすべてをマスターするための専門モジュール。",
+      "modules": [
+        {
+          "id": "builddinodefense-codes",
+          "name": "builddinodefense Codes",
+          "category": "報酬コード",
+          "description": "ゲーム内で役立つキャッシュや特典アイテムを入手できる最新プロモーションコード一覧。",
+          "displayType": "code-cards",
+          "viewAllLink": "/guide",
+          "items": [
+            {
+              "code": "COMING-SOON",
+              "reward": "キャッシュボーナス (次回アップデート)",
+              "badge": "準備中"
+            },
+            {
+              "code": "STAY-TUNED",
+              "reward": "限定トラップスキン (予定)",
+              "badge": "近日公開"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-traps",
+          "name": "builddinodefense Traps",
+          "category": "トラップ一覧",
+          "description": "スパイクトラップや地雷など、侵入する恐竜に致命的な打撃を与える防衛トラップ。",
+          "displayType": "card-list",
+          "viewAllLink": "/mechanics",
+          "items": [
+            {
+              "name": "Spike Trap",
+              "type": "近接物理",
+              "stats": "50 ダメージ / 踏み込み時",
+              "rating": "基本防衛"
+            },
+            {
+              "name": "Flame Trap",
+              "type": "範囲炎上",
+              "stats": "秒間 35 ダメージ",
+              "rating": "対大群"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-turrets",
+          "name": "builddinodefense Turrets",
+          "category": "砲塔システム",
+          "description": "自動追尾で恐竜を狙撃する各種タレットの射程、DPS、強化コストの完全解説。",
+          "displayType": "card-list",
+          "viewAllLink": "/mechanics",
+          "items": [
+            {
+              "name": "Sentry Turret",
+              "type": "自動連射",
+              "stats": "射程 30m / 75 DPS",
+              "rating": "主力砲塔"
+            },
+            {
+              "name": "Heavy Cannon",
+              "type": "単発高威力",
+              "stats": "射程 45m / 240 単発",
+              "rating": "対大型恐竜"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-dinos",
+          "name": "builddinodefense Dinos",
+          "category": "恐竜図鑑",
+          "description": "卵を狙って襲撃してくるラプターやT-レックスなどのHP、移動速度、攻撃特性一覧。",
+          "displayType": "tier-grid",
+          "viewAllLink": "/combat",
+          "items": [
+            {
+              "name": "Swift Raptor",
+              "tier": "A",
+              "role": "高速奇襲",
+              "description": "素早くトラップをすり抜ける危険な小型恐竜。"
+            },
+            {
+              "name": "Armored Bronto",
+              "tier": "S",
+              "role": "高耐久戦車",
+              "description": "極めて高いHPで防壁を削る超大型恐竜。"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-weapons",
+          "name": "builddinodefense Weapons",
+          "category": "武器クレート",
+          "description": "クレートから出現するショットガン、ライフル、ランチャーの性能とプレイスタイル別おすすめ。",
+          "displayType": "card-list",
+          "viewAllLink": "/combat",
+          "items": [
+            {
+              "name": "Combat Shotgun",
+              "type": "近距離拡散",
+              "stats": "威力 160 / 6発",
+              "rating": "緊急防衛"
+            },
+            {
+              "name": "Assault Rifle",
+              "type": "中距離連射",
+              "stats": "毎分 450発 / 30発装填",
+              "rating": "汎用性抜群"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-upgrades",
+          "name": "builddinodefense Upgrades",
+          "category": "拠点強化",
+          "description": "壁の耐久度強化、キャッシュ獲得倍率アップ、弾薬供給速度向上などの基地発展ルート。",
+          "displayType": "step-by-step",
+          "viewAllLink": "/progression",
+          "items": [
+            {
+              "step": "01",
+              "name": "強化フェンス",
+              "detail": "初期木製フェンスを金属防壁にアップグレードして耐久度を3倍に強化。"
+            },
+            {
+              "step": "02",
+              "name": "タレット給電装置",
+              "detail": "エネルギーハブを構築し、全タレットの発射速度を25%上昇。"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-controls",
+          "name": "builddinodefense Controls",
+          "category": "操作ガイド",
+          "description": "迅速な建築と素早い武器切り替えを実現するキーバインドとショートカット一覧。",
+          "displayType": "card-list",
+          "viewAllLink": "/controls",
+          "items": [
+            {
+              "name": "クイック建築モード",
+              "type": "キー B",
+              "stats": "防壁・トラップ選択メニュー即時展開",
+              "rating": "重要"
+            },
+            {
+              "name": "武器切り替え",
+              "type": "キー 1-4",
+              "stats": "装備スロット即時選択",
+              "rating": "基本操作"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-multiplayer",
+          "name": "builddinodefense Multiplayer",
+          "category": "チーム協力",
+          "description": "最大6人サーバーで役割（建築担当・迎撃担当・物資回収）を分担して挑む必勝フォーメーション。",
+          "displayType": "step-by-step",
+          "viewAllLink": "/community",
+          "items": [
+            {
+              "step": "役割分担",
+              "name": "ビルダーとガンナー",
+              "detail": "建築専任と前線迎撃要員に分かれて効率的に資源と防衛網を管理。"
+            },
+            {
+              "step": "連携防衛",
+              "name": "卵のクロスファイア",
+              "detail": "卵の四方をタレットの射程が重なり合うように配置して死角を撲滅。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "Robloxの「builddinodefense」とはどのようなゲームですか？",
+        "a": "「builddinodefense」（Build a Dino Defense）は、Big Chomp Gamesが開発した最大6人対応の協力型恐竜タワーディフェンスゲームです。防壁やタレットを築き、凶暴な恐竜の群れから恐竜の卵を守るのが目標です。"
+      },
+      {
+        "q": "「builddinodefense」で有効な最新引き換えコードはありますか？",
+        "a": "現在、公開確認された有効コードはありません。公式アップデートや開発者アナウンスがあり次第、当Wikiのコード一覧で即座に掲載します。"
+      },
+      {
+        "q": "「builddinodefense」で最もおすすめのタレットやトラップは何ですか？",
+        "a": "序盤はスパイクトラップで侵入経路を塞ぎつつセントリータレットを配備し、中盤以降は対大型恐竜用の高威力キャノン砲を増設するのが最も安定した防御パターンです。"
+      },
+      {
+        "q": "「builddinodefense」は何人で一緒にプレイできますか？",
+        "a": "1サーバーあたり最大6人まで同時に協力プレイが可能です。ソロでも楽しめますが、マルチプレイで役割分担を行うと高難度ウェーブのクリア率が大幅に向上します。"
+      },
+      {
+        "q": "「builddinodefense」で恐竜の卵が破壊されたらどうなりますか？",
+        "a": "卵の耐久値がゼロになるとゲームオーバーとなります。卵の周囲を二重の防壁で囲み、タレットの射線を確保して集中攻撃を防ぐことが生存の鍵です。"
+      }
+    ],
+    "finalCta": {
+      "title": "恐竜の卵を守る準備はできたか？",
+      "description": "今すぐRobloxの「Build a Dino Defense」に参加して、仲間と共に最強の要塞を築き上げよう！",
+      "primary": "Robloxでプレイ",
+      "secondary": "防衛ガイドを読む"
+    }
+  },
+  "bosses": {},
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "最新コード",
+    "updated": "更新済み",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "ヘルプが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "Related Guides",
+    "readMore": "Read more",
+    "officialMedia": "Official media",
+    "home": "Home",
+    "noGuidesAvailable": "No guides available yet. Check back soon!"
+  },
+  "footer": {
+    "aboutTitle": "Build a Dino Defense Wikiについて",
+    "about": "プレイヤーによるプレイヤーのための究極のRoblox「Build a Dino Defense」攻略情報データベース。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド一覧",
+    "legal": "法的情報",
+    "copyright": "© 2026 builddinodefense Wiki. すべての権利を保有。",
+    "description": "Roblox「Build a Dino Defense」のコミュニティ攻略Wiki。トラップ構築、タレット配置、防衛戦略、恐竜の卵を守る完全ガイド。",
+    "playGame": "Roblox公式でプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "ゲームプレイ動画 (YouTube)",
+    "vvBuilder": "Defense Planner",
+    "beginnerGuide": "Beginner Guide",
+    "raceGuides": "Turret Guides",
+    "bossGuides": "Dino Guides",
+    "buildGuide": "Defense Strategies",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "初心者＆上級者向け攻略ガイド",
+    "overviewDescription": "基本システム、序盤の進め方、タレットとトラップの最適な配置パターンを網羅した包括的ガイド。"
+  },
+  "mechanics": {
+    "overviewTitle": "ゲームシステムと防衛メカニクス",
+    "overviewDescription": "トラップの作動方式、砲塔の射程とダメージ、キャッシュエコノミー、恐竜の卵の耐久値メカニクス解説。"
+  },
+  "combat": {
+    "overviewTitle": "恐竜の波と戦闘戦略",
+    "overviewDescription": "襲来する様々な恐竜の弱点属性、波次ごとの難易度変化、クレート武器を活用した効率的な迎撃戦術。"
+  },
+  "progression": {
+    "overviewTitle": "拠点アップグレードと進化ツリー",
+    "overviewDescription": "基地の要塞化、高度なタレットのアンロック、防衛力向上による長期サバイバル達成ルート。"
+  },
+  "controls": {
+    "overviewTitle": "操作方法とキー配置設定",
+    "overviewDescription": "PC（キーボード＆マウス）、モバイル、コンソール対応の操作一覧と素早い建築・戦闘テクニック。"
+  },
+  "community": {
+    "overviewTitle": "コミュニティと協力マルチプレイ",
+    "overviewDescription": "最大6人のチーム連携プレイ、公式Robloxグループ「Big Chomp Games」、Discordでの仲間募集。"
+  }
+}

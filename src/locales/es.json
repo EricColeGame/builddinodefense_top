@@ -1,1 +1,403 @@
-{}
+{
+  "site": {
+    "name": "builddinodefense Wiki",
+    "shortName": "builddinodefense",
+    "tagline": "Guía Definitiva de Tower Defense de Dinosaurios en Roblox por Big Chomp Games",
+    "description": "La wiki comunitaria más completa de Build a Dino Defense en Roblox. Estrategias de trampas, torretas, oleadas de dinosaurios, defensa de huevos y códigos actualizados.",
+    "legalNotice": "Esta es una wiki no oficial creada por fans de la comunidad. No está afiliada ni respaldada por Roblox Corporation ni por Big Chomp Games."
+  },
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "combat": "Combat",
+    "progression": "Progression",
+    "controls": "Controls",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Build a Dino Defense Wiki — Guía y Estrategias de Tower Defense en Roblox",
+      "description": "Base de datos y wiki completa de Build a Dino Defense en Roblox. Trampas, torretas, oleadas de dinosaurios y defensa de huevos."
+    },
+    "hero": {
+      "eyebrow": "Fan-Made Community Wiki",
+      "title": "Build a Dino Defense Wiki",
+      "description": "¡Construye fortificaciones, coloca torretas y protege el huevo de dinosaurio de feroces oleadas jurásicas! Guía estratégica completa para hasta 6 jugadores.",
+      "stats": [
+        "3.3M+ Visits",
+        "2.4K+ Online",
+        "2.4K+ Peak CCU",
+        "86.8% Rating"
+      ],
+      "primaryCta": "Jugar en Roblox",
+      "secondaryCta": "Explorar Guías",
+      "tertiaryCta": "Active Codes",
+      "videoLabel": "Official media"
+    },
+    "updates": {
+      "title": "Actualizaciones Recientes",
+      "browse": "Browse All Guides",
+      "viewAll": "Ver Todas las Novedades"
+    },
+    "start": [
+      {
+        "step": "Paso 01",
+        "title": "Construye Muros de Protección",
+        "description": "Utiliza tu dinero inicial para levantar barreras alrededor del huevo de dinosaurio y bloquear el paso de los dinosaurios.",
+        "badge": "Defensa Básica",
+        "link": "/guide/getting-started",
+        "buttonText": "Ver Guía de Inicio"
+      },
+      {
+        "step": "Paso 02",
+        "title": "Coloca Trampas y Torretas",
+        "description": "Instala trampas de pinchos y torretas automáticas a lo largo de las rutas de entrada enemigas para desgastar a los atacantes.",
+        "badge": "Potencia de Fuego",
+        "link": "/mechanics/trap-placement",
+        "buttonText": "Aprender Ubicación"
+      },
+      {
+        "step": "Paso 03",
+        "title": "Equípate con Cajas de Armas",
+        "description": "Abre cajas de suministros para conseguir escopetas, rifles y armas cuerpo a cuerpo para defender activamente tu base.",
+        "badge": "Armamento",
+        "link": "/combat/weapons-crates",
+        "buttonText": "Ver Armas"
+      },
+      {
+        "step": "Paso 04",
+        "title": "Defiende el Huevo y Mejora",
+        "description": "Coopera con tu equipo para sobrevivir a cada oleada, ganar dinero y subir de nivel tus defensas de forma continua.",
+        "badge": "Supervivencia",
+        "link": "/progression/base-upgrades",
+        "buttonText": "Guía de Mejoras"
+      }
+    ],
+    "popular": [
+      {
+        "title": "Estrategias Óptimas de Torretas y Trampas",
+        "description": "Aprende a diseñar embudos mortales y maximizar el rango de tus torretas para frenar a los dinosaurios más veloces.",
+        "badge": "Popular",
+        "readTime": "4 min de lectura",
+        "link": "/mechanics/turret-optimization"
+      },
+      {
+        "title": "Guía de Oleadas de Dinosaurios y Debilidades",
+        "description": "Estadísticas completas y tácticas para repeler velocirraptores veloces, blindados y feroces T-Rex gigantescos.",
+        "badge": "Combate",
+        "readTime": "5 min de lectura",
+        "link": "/combat/dino-waves-strategy"
+      },
+      {
+        "title": "Cómo Ganar Dinero y Fortificar la Base",
+        "description": "Acelera la economía de tu equipo y desbloquea fortificaciones avanzadas desde las primeras rondas del juego.",
+        "badge": "Evolución",
+        "readTime": "6 min de lectura",
+        "link": "/progression/cash-farming"
+      }
+    ],
+    "aboutGame": {
+      "title": "¿Qué es Build a Dino Defense?",
+      "paragraphs": [
+        "Build a Dino Defense is an action-packed cooperative strategy and tower defense experience on Roblox developed by Big Chomp Games. Players team up in servers of up to 6 to construct impenetrable fortifications, lay tactical traps, install automated turrets, and battle relentless waves of ravenous dinosaurs to protect their precious egg.",
+        "Whether you are placing your first wooden barricade, cracking open high-tier weapon crates to blast raptors, or mastering complex maze layouts against giant dinosaur bosses, our wiki covers every system with verified stats, tier rankings, and battle-tested strategies."
+      ],
+      "stats": [
+        {
+          "label": "Developer",
+          "value": "Big Chomp Games"
+        },
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Tower Defense & Strategy"
+        },
+        {
+          "label": "Total Visits",
+          "value": "3.3M+"
+        },
+        {
+          "label": "Server Size",
+          "value": "6 Players"
+        },
+        {
+          "label": "User Rating",
+          "value": "86.8%"
+        },
+        {
+          "label": "Peak CCU",
+          "value": "2.4K+"
+        }
+      ],
+      "cta": "Explore All Guides"
+    },
+    "explore": {
+      "title": "Explora los Sistemas de Defensa",
+      "description": "Módulos especializados para dominar cada aspecto: torretas, trampas, economía y combate contra dinosaurios.",
+      "modules": [
+        {
+          "id": "builddinodefense-codes",
+          "name": "builddinodefense Codes",
+          "category": "Recompensas",
+          "description": "Lista de códigos promocionales para obtener dinero extra y ventajas exclusivas en el juego.",
+          "displayType": "code-cards",
+          "viewAllLink": "/guide",
+          "items": [
+            {
+              "code": "COMING-SOON",
+              "reward": "Bono de Dinero (Próxima Actualización)",
+              "badge": "Pronto"
+            },
+            {
+              "code": "STAY-TUNED",
+              "reward": "Aspecto de Trampa Exclusivo",
+              "badge": "Pendiente"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-traps",
+          "name": "builddinodefense Traps",
+          "category": "Trampas Defensivas",
+          "description": "Catálogo de trampas de suelo, pinchos y fuego para infligir daño continuo a las oleadas jurásicas.",
+          "displayType": "card-list",
+          "viewAllLink": "/mechanics",
+          "items": [
+            {
+              "name": "Spike Trap",
+              "type": "Físico Suelo",
+              "stats": "50 Daño al pisar",
+              "rating": "Básico Esencial"
+            },
+            {
+              "name": "Flame Trap",
+              "type": "Área Ígnea",
+              "stats": "35 Daño por segundo",
+              "rating": "Anti-Horda"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-turrets",
+          "name": "builddinodefense Turrets",
+          "category": "Torretas Automáticas",
+          "description": "Torretas defensivas con fuego automático, alcance extendido y alta cadencia de disparo.",
+          "displayType": "card-list",
+          "viewAllLink": "/mechanics",
+          "items": [
+            {
+              "name": "Sentry Turret",
+              "type": "Fuego Continuo",
+              "stats": "Alcance 30m / 75 DPS",
+              "rating": "Principal"
+            },
+            {
+              "name": "Heavy Cannon",
+              "type": "Impacto Masivo",
+              "stats": "Alcance 45m / 240 Impacto",
+              "rating": "Anti-Tanque"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-dinos",
+          "name": "builddinodefense Dinos",
+          "category": "Bestiario de Dinosaurios",
+          "description": "Guía de enemigos: vida, velocidad de avance y prioridades de ataque de cada especie de dinosaurio.",
+          "displayType": "tier-grid",
+          "viewAllLink": "/combat",
+          "items": [
+            {
+              "name": "Swift Raptor",
+              "tier": "A",
+              "role": "Asalto Rápido",
+              "description": "Dinosaurio veloz que puede esquivar trampas descuidadas."
+            },
+            {
+              "name": "Armored Bronto",
+              "tier": "S",
+              "role": "Tanque Colosal",
+              "description": "Enorme barra de vida que absorbe gran cantidad de disparos."
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-weapons",
+          "name": "builddinodefense Weapons",
+          "category": "Cajas de Armas",
+          "description": "Armas de combate para jugadores disponibles en cajas de suministros: rifles, escopetas y pistolas.",
+          "displayType": "card-list",
+          "viewAllLink": "/combat",
+          "items": [
+            {
+              "name": "Combat Shotgun",
+              "type": "Dispersión Cercana",
+              "stats": "160 Daño / 6 Cartuchos",
+              "rating": "Defensa Crítica"
+            },
+            {
+              "name": "Assault Rifle",
+              "type": "Ráfaga Media",
+              "stats": "450 DPM / 30 Balas",
+              "rating": "Polivalente"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-upgrades",
+          "name": "builddinodefense Upgrades",
+          "category": "Mejoras de Base",
+          "description": "Rutas de optimización para elevar la resistencia de los muros y la efectividad de las defensas.",
+          "displayType": "step-by-step",
+          "viewAllLink": "/progression",
+          "items": [
+            {
+              "step": "01",
+              "name": "Vallas Reforzadas",
+              "detail": "Sustituye empalizadas básicas por muros de metal con el triple de salud."
+            },
+            {
+              "step": "02",
+              "name": "Generador de Torretas",
+              "detail": "Aumenta la cadencia de disparo de todas las torretas activas en un 25%."
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-controls",
+          "name": "builddinodefense Controls",
+          "category": "Mapeo de Controles",
+          "description": "Teclas de acceso directo para alternar velozmente entre el modo de construcción y el combate armado.",
+          "displayType": "card-list",
+          "viewAllLink": "/controls",
+          "items": [
+            {
+              "name": "Modo Construcción",
+              "type": "Tecla B",
+              "stats": "Abre el menú de colocación de muros y trampas",
+              "rating": "Vital"
+            },
+            {
+              "name": "Selección de Armas",
+              "type": "Teclas 1-4",
+              "stats": "Cambia rápidamente de ranura de armamento",
+              "rating": "Esencial"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-multiplayer",
+          "name": "builddinodefense Multiplayer",
+          "category": "Cooperativo en Equipo",
+          "description": "Estrategias de coordinación para escuadrones de hasta 6 jugadores en servidores oficiales.",
+          "displayType": "step-by-step",
+          "viewAllLink": "/community",
+          "items": [
+            {
+              "step": "Especialización",
+              "name": "Constructores y Tiradores",
+              "detail": "Divide al equipo entre los encargados de reparar y los que eliminan amenazas."
+            },
+            {
+              "step": "Fuego Cruzado",
+              "name": "Defensa Circular",
+              "detail": "Dispón las torretas en círculo alrededor del huevo eliminando cualquier ángulo ciego."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "¿De qué trata el juego «builddinodefense» en Roblox?",
+        "a": "«builddinodefense» (Build a Dino Defense) es un juego cooperativo de tower defense en Roblox creado por Big Chomp Games. Hasta 6 jugadores colaboran para erigir defensas, colocar trampas y torretas, y proteger un huevo de dinosaurio de constantes oleadas enemigas."
+      },
+      {
+        "q": "¿Hay códigos promocionales activos para «builddinodefense»?",
+        "a": "Actualmente no existen códigos activos verificados por los desarrolladores. En cuanto Big Chomp Games publique nuevos códigos oficiales, los actualizaremos de inmediato en nuestra wiki."
+      },
+      {
+        "q": "¿Cuáles son las mejores defensas para empezar en «builddinodefense»?",
+        "a": "La combinación más recomendada es rodear el huevo con muros sólidos, colocar trampas de pinchos en los puntos de paso obligatorio y apoyar con torretas automáticas para eliminar a los dinosaurios a distancia."
+      },
+      {
+        "q": "¿Cuántos jugadores pueden unirse a una partida de «builddinodefense»?",
+        "a": "Cada servidor admite hasta 6 jugadores de manera simultánea. Aunque puedes jugar en solitario, coordinarte en escuadrón facilita enormemente superar las oleadas avanzadas."
+      },
+      {
+        "q": "¿Qué ocurre si el huevo de dinosaurio es destruido en «builddinodefense»?",
+        "a": "Si los dinosaurios consiguen reducir la salud del huevo a cero, la partida termina. Proteger el huevo con varias capas defensivas es la máxima prioridad del juego."
+      }
+    ],
+    "finalCta": {
+      "title": "¿Listo para Proteger el Huevo?",
+      "description": "¡Entra hoy mismo en Build a Dino Defense en Roblox y levanta tu fortaleza impenetrable con tus amigos!",
+      "primary": "Jugar en Roblox",
+      "secondary": "Leer Guías"
+    }
+  },
+  "bosses": {},
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver Todos los Códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En Esta Sección",
+    "tableOfContents": "Tabla de Contenidos",
+    "nextSteps": "Siguientes Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lecturas Relacionadas",
+    "relatedGuides": "Related Guides",
+    "readMore": "Read more",
+    "officialMedia": "Official media",
+    "home": "Home",
+    "noGuidesAvailable": "No guides available yet. Check back soon!"
+  },
+  "footer": {
+    "aboutTitle": "Acerca de Build a Dino Defense Wiki",
+    "about": "Tu recurso definitivo y base de conocimientos para dominar el tower defense de dinosaurios en Roblox.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "© 2026 builddinodefense Wiki. Todos los derechos reservados.",
+    "description": "Wiki comunitaria de Build a Dino Defense en Roblox. Aprende a construir trampas, colocar torretas y defender el huevo.",
+    "playGame": "Jugar en Roblox Oficial",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "Gameplay en YouTube",
+    "vvBuilder": "Defense Planner",
+    "beginnerGuide": "Beginner Guide",
+    "raceGuides": "Turret Guides",
+    "bossGuides": "Dino Guides",
+    "buildGuide": "Defense Strategies",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Guías de Inicio y Estrategia Avanzada",
+    "overviewDescription": "Conceptos esenciales, rutas de inicio para principiantes y esquemas de ubicación de torretas y trampas."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Juego y Sistemas de Defensa",
+    "overviewDescription": "Funcionamiento de trampas, alcance y daño de torretas, economía de dinero y salud del huevo de dinosaurio."
+  },
+  "combat": {
+    "overviewTitle": "Oleadas de Dinosaurios y Combate",
+    "overviewDescription": "Tipos de dinosaurios, debilidades, escalado de oleadas y uso efectivo de armas obtenidas en cajas."
+  },
+  "progression": {
+    "overviewTitle": "Mejoras de Base y Árbol de Progresión",
+    "overviewDescription": "Fortificación de defensas, desbloqueo de torretas avanzadas y supervivencia a largo plazo."
+  },
+  "controls": {
+    "overviewTitle": "Controles y Asignación de Teclas",
+    "overviewDescription": "Guía completa de controles para PC, móviles y consolas, junto con técnicas rápidas de construcción."
+  },
+  "community": {
+    "overviewTitle": "Comunidad y Cooperativo Multijugador",
+    "overviewDescription": "Estrategias de equipo para hasta 6 jugadores, grupo de Roblox de Big Chomp Games y comunidad de Discord."
+  }
+}

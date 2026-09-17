@@ -1,1 +1,403 @@
-{}
+{
+  "site": {
+    "name": "builddinodefense Wiki",
+    "shortName": "builddinodefense",
+    "tagline": "Guia Definitivo de Tower Defense de Dinossauros no Roblox por Big Chomp Games",
+    "description": "A wiki comunitária mais completa de Build a Dino Defense no Roblox. Estratégias de armadilhas, torres, ondas de dinossauros, defesa de ovos e códigos atualizados.",
+    "legalNotice": "Esta é uma wiki não oficial criada por fãs da comunidade. Não é afiliada nem endossada pela Roblox Corporation ou Big Chomp Games."
+  },
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "combat": "Combat",
+    "progression": "Progression",
+    "controls": "Controls",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Build a Dino Defense Wiki — Guia e Estratégias de Tower Defense no Roblox",
+      "description": "Base de dados e wiki completa de Build a Dino Defense no Roblox. Armadilhas, torres, ondas de dinossauros e defesa de ovos."
+    },
+    "hero": {
+      "eyebrow": "Fan-Made Community Wiki",
+      "title": "Build a Dino Defense Wiki",
+      "description": "Construa fortificações, posicione torres e defenda o ovo de dinossauro de hordas jurássicas implacáveis! Guia cooperativo completo para até 6 jogadores.",
+      "stats": [
+        "3.3M+ Visits",
+        "2.4K+ Online",
+        "2.4K+ Peak CCU",
+        "86.8% Rating"
+      ],
+      "primaryCta": "Jogar no Roblox",
+      "secondaryCta": "Ver Guias",
+      "tertiaryCta": "Active Codes",
+      "videoLabel": "Official media"
+    },
+    "updates": {
+      "title": "Atualizações Recentes",
+      "browse": "Browse All Guides",
+      "viewAll": "Ver Todas as Atualizações"
+    },
+    "start": [
+      {
+        "step": "Passo 01",
+        "title": "Construa Muralhas Fortificadas",
+        "description": "Use o dinheiro inicial para erguer barreiras sólidas ao redor do ovo de dinossauro e bloquear invasões.",
+        "badge": "Defesa Básica",
+        "link": "/guide/getting-started",
+        "buttonText": "Guia para Iniciantes"
+      },
+      {
+        "step": "Passo 02",
+        "title": "Posicione Armadilhas e Torres",
+        "description": "Instale armadilhas de espinhos e torres automáticas nos corredores de acesso para causar dano contínuo aos dinossauros.",
+        "badge": "Poder de Fogo",
+        "link": "/mechanics/trap-placement",
+        "buttonText": "Dicas de Posicionamento"
+      },
+      {
+        "step": "Passo 03",
+        "title": "Colete Caixas de Armas",
+        "description": "Abra caixas de suprimentos para obter espingardas, fuzis e armas brancas para enfrentar os inimigos na linha de frente.",
+        "badge": "Armamento",
+        "link": "/combat/weapons-crates",
+        "buttonText": "Ver Armas"
+      },
+      {
+        "step": "Passo 04",
+        "title": "Defenda o Ovo e Melhore a Base",
+        "description": "Trabalhe em equipe para repelir as ondas de dinossauros, acumular dinheiro e aprimorar suas instalações defensivas.",
+        "badge": "Sobrevivência",
+        "link": "/progression/base-upgrades",
+        "buttonText": "Árvore de Upgrades"
+      }
+    ],
+    "popular": [
+      {
+        "title": "Posicionamento Ideal de Torres e Armadilhas",
+        "description": "Aprenda a criar afunilamentos estratégicos e maximizar o alcance das suas torres contra dinossauros velozes.",
+        "badge": "Popular",
+        "readTime": "4 min de leitura",
+        "link": "/mechanics/turret-optimization"
+      },
+      {
+        "title": "Guia de Ondas de Dinossauros e Fraquezas",
+        "description": "Estatísticas completas de vida, velocidade e métodos eficazes para conter raptors ágeis e grandes predadores.",
+        "badge": "Combate",
+        "readTime": "5 min de leitura",
+        "link": "/combat/dino-waves-strategy"
+      },
+      {
+        "title": "Como Conseguir Dinheiro e Fortalecer a Base",
+        "description": "Estratégias de economia acelerada para desbloquear fortificações metálicas logo nas primeiras rodadas.",
+        "badge": "Evolução",
+        "readTime": "6 min de leitura",
+        "link": "/progression/cash-farming"
+      }
+    ],
+    "aboutGame": {
+      "title": "O que é Build a Dino Defense?",
+      "paragraphs": [
+        "Build a Dino Defense is an action-packed cooperative strategy and tower defense experience on Roblox developed by Big Chomp Games. Players team up in servers of up to 6 to construct impenetrable fortifications, lay tactical traps, install automated turrets, and battle relentless waves of ravenous dinosaurs to protect their precious egg.",
+        "Whether you are placing your first wooden barricade, cracking open high-tier weapon crates to blast raptors, or mastering complex maze layouts against giant dinosaur bosses, our wiki covers every system with verified stats, tier rankings, and battle-tested strategies."
+      ],
+      "stats": [
+        {
+          "label": "Developer",
+          "value": "Big Chomp Games"
+        },
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Tower Defense & Strategy"
+        },
+        {
+          "label": "Total Visits",
+          "value": "3.3M+"
+        },
+        {
+          "label": "Server Size",
+          "value": "6 Players"
+        },
+        {
+          "label": "User Rating",
+          "value": "86.8%"
+        },
+        {
+          "label": "Peak CCU",
+          "value": "2.4K+"
+        }
+      ],
+      "cta": "Explore All Guides"
+    },
+    "explore": {
+      "title": "Explore os Sistemas de Defesa",
+      "description": "Módulos especializados para dominar armadilhas, torres, armas de caixas e combate tático.",
+      "modules": [
+        {
+          "id": "builddinodefense-codes",
+          "name": "builddinodefense Codes",
+          "category": "Recompensas",
+          "description": "Lista atualizada de códigos promocionais para resgatar dinheiro e bônus no jogo.",
+          "displayType": "code-cards",
+          "viewAllLink": "/guide",
+          "items": [
+            {
+              "code": "COMING-SOON",
+              "reward": "Bônus de Dinheiro (Próxima Atualização)",
+              "badge": "Em Breve"
+            },
+            {
+              "code": "STAY-TUNED",
+              "reward": "Visual Exclusivo de Armadilha",
+              "badge": "Pendente"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-traps",
+          "name": "builddinodefense Traps",
+          "category": "Armadilhas de Defesa",
+          "description": "Catálogo completo de armadilhas de solo e fogo para deter e enfraquecer grupos de dinossauros.",
+          "displayType": "card-list",
+          "viewAllLink": "/mechanics",
+          "items": [
+            {
+              "name": "Spike Trap",
+              "type": "Físico de Solo",
+              "stats": "50 de dano ao pisar",
+              "rating": "Defesa Básica"
+            },
+            {
+              "name": "Flame Trap",
+              "type": "Área de Chamas",
+              "stats": "35 de dano por segundo",
+              "rating": "Anti-Horda"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-turrets",
+          "name": "builddinodefense Turrets",
+          "category": "Torres Automáticas",
+          "description": "Torres com mira automática, disparo contínuo e longo alcance para proteção perimetral.",
+          "displayType": "card-list",
+          "viewAllLink": "/mechanics",
+          "items": [
+            {
+              "name": "Sentry Turret",
+              "type": "Disparo Rápido",
+              "stats": "Alcance 30m / 75 DPS",
+              "rating": "Torre Principal"
+            },
+            {
+              "name": "Heavy Cannon",
+              "type": "Alto Impacto",
+              "stats": "Alcance 45m / 240 Impacto",
+              "rating": "Anti-Dinossauro Gigante"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-dinos",
+          "name": "builddinodefense Dinos",
+          "category": "Bestiário de Dinossauros",
+          "description": "Ficha completa dos dinossauros invasores: vida, velocidade e rotas de ataque preferidas.",
+          "displayType": "tier-grid",
+          "viewAllLink": "/combat",
+          "items": [
+            {
+              "name": "Swift Raptor",
+              "tier": "A",
+              "role": "Incursão Veloz",
+              "description": "Dinossauro ágil capaz de avançar rapidamente pelas defesas."
+            },
+            {
+              "name": "Armored Bronto",
+              "tier": "S",
+              "role": "Tanque Colossal",
+              "description": "Barra de vida imensa que exige poder de fogo concentrado."
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-weapons",
+          "name": "builddinodefense Weapons",
+          "category": "Caixas de Armas",
+          "description": "Armas de combate pessoal encontradas em caixas: espingardas, rifles de precisão e metralhadoras.",
+          "displayType": "card-list",
+          "viewAllLink": "/combat",
+          "items": [
+            {
+              "name": "Combat Shotgun",
+              "type": "Dispersão Próxima",
+              "stats": "160 de dano / 6 tiros",
+              "rating": "Defesa Crítica"
+            },
+            {
+              "name": "Assault Rifle",
+              "type": "Rajada Média",
+              "stats": "450 DPM / 30 projéteis",
+              "rating": "Polivalente"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-upgrades",
+          "name": "builddinodefense Upgrades",
+          "category": "Melhorias de Base",
+          "description": "Evolução de estruturas: elevação da vida das paredes e aceleração das torretas defensivas.",
+          "displayType": "step-by-step",
+          "viewAllLink": "/progression",
+          "items": [
+            {
+              "step": "01",
+              "name": "Muralha de Aço",
+              "detail": "Substitui cercas de madeira por barreiras metálicas reforçadas com o triplo de resistência."
+            },
+            {
+              "step": "02",
+              "name": "Módulo de Energia",
+              "detail": "Aumenta a velocidade de disparo de todas as torres instaladas em 25%."
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-controls",
+          "name": "builddinodefense Controls",
+          "category": "Comandos e Atalhos",
+          "description": "Teclas de atalho para alternar rapidamente entre o menu de construção e a mira de armas de fogo.",
+          "displayType": "card-list",
+          "viewAllLink": "/controls",
+          "items": [
+            {
+              "name": "Modo Construção",
+              "type": "Tecla B",
+              "stats": "Abre o catálogo de muros e armadilhas",
+              "rating": "Crucial"
+            },
+            {
+              "name": "Troca de Armas",
+              "type": "Teclas 1-4",
+              "stats": "Alterna entre os itens do inventário de combate",
+              "rating": "Básico"
+            }
+          ]
+        },
+        {
+          "id": "builddinodefense-multiplayer",
+          "name": "builddinodefense Multiplayer",
+          "category": "Cooperação em Equipe",
+          "description": "Estratégias de entrosamento para grupos de até 6 jogadores em servidores compartilhados.",
+          "displayType": "step-by-step",
+          "viewAllLink": "/community",
+          "items": [
+            {
+              "step": "Divisão de Tarefas",
+              "name": "Construtores e Soldados",
+              "detail": "Separe o esquadrão entre quem conserta barricadas e quem elimina predadores."
+            },
+            {
+              "step": "Fogo Cruzado",
+              "name": "Proteção do Ovo",
+              "detail": "Posicione as torres em círculo para que seus campos de visão cubram todos os acessos ao ovo."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": [
+      {
+        "q": "O que é o jogo «builddinodefense» no Roblox?",
+        "a": "«builddinodefense» (Build a Dino Defense) é um jogo cooperativo de tower defense no Roblox desenvolvido pela Big Chomp Games. Até 6 jogadores constroem barreiras, armadilhas e torres para proteger um ovo de dinossauro contra hordas pré-históricas."
+      },
+      {
+        "q": "Existem códigos ativos de resgate para «builddinodefense»?",
+        "a": "No momento, não há códigos ativos oficiais liberados pelos desenvolvedores. Assim que a Big Chomp Games disponibilizar novos códigos, eles serão publicados imediatamente nesta wiki."
+      },
+      {
+        "q": "Quais são as defesas mais eficientes em «builddinodefense»?",
+        "a": "A estratégia ideal envolve cercar o ovo com muralhas resistentes, instalar armadilhas de espinhos nas passagens dos dinossauros e utilizar torres automáticas para causar dano contínuo a distância."
+      },
+      {
+        "q": "Quantas pessoas podem jogar juntas em «builddinodefense»?",
+        "a": "Cada servidor suporta até 6 jogadores simultâneos. Jogar em equipe cooperativa com divisão de funções melhora consideravelmente as chances de sucesso nas ondas avançadas."
+      },
+      {
+        "q": "O que acontece se o ovo for destruído em «builddinodefense»?",
+        "a": "Se a barra de integridade do ovo chegar a zero, a partida é encerrada com derrota. Proteger o ovo com múltiplas camadas de muralhas e fogo cruzado é o objetivo central."
+      }
+    ],
+    "finalCta": {
+      "title": "Pronto para Defender o Ovo?",
+      "description": "Entre agora mesmo no Build a Dino Defense no Roblox e erga a fortaleza suprema ao lado dos seus amigos!",
+      "primary": "Jogar no Roblox",
+      "secondary": "Ler Guias"
+    }
+  },
+  "bosses": {},
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver Todos os Códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta Seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leituras Relacionadas",
+    "relatedGuides": "Related Guides",
+    "readMore": "Read more",
+    "officialMedia": "Official media",
+    "home": "Home",
+    "noGuidesAvailable": "No guides available yet. Check back soon!"
+  },
+  "footer": {
+    "aboutTitle": "Sobre a Build a Dino Defense Wiki",
+    "about": "Seu guia definitivo e base de conhecimento para dominar o tower defense de dinossauros no Roblox.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "© 2026 builddinodefense Wiki. Todos os direitos reservados.",
+    "description": "Wiki comunitária de Build a Dino Defense no Roblox. Aprenda a construir armadilhas, posicionar torres e defender o ovo.",
+    "playGame": "Jogar no Roblox Oficial",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "Gameplay no YouTube",
+    "vvBuilder": "Defense Planner",
+    "beginnerGuide": "Beginner Guide",
+    "raceGuides": "Turret Guides",
+    "bossGuides": "Dino Guides",
+    "buildGuide": "Defense Strategies",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Guias para Iniciantes e Estratégia Avançada",
+    "overviewDescription": "Conceitos essenciais, rotas de evolução inicial e padrões ideais de posicionamento de torres e armadilhas."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas de Jogo e Sistemas de Defesa",
+    "overviewDescription": "Funcionamento de armadilhas, alcance e dano de torres, economia de dinheiro e resistência do ovo de dinossauro."
+  },
+  "combat": {
+    "overviewTitle": "Ondas de Dinossauros e Combate",
+    "overviewDescription": "Variedades de dinossauros, fraquezas, escalonamento de ondas e uso de armas de caixas de suprimentos."
+  },
+  "progression": {
+    "overviewTitle": "Melhorias de Base e Árvore de Evolução",
+    "overviewDescription": "Fortificação de defesas, desbloqueio de torres avançadas e estratégias de sobrevivência a longo prazo."
+  },
+  "controls": {
+    "overviewTitle": "Controles e Configurações de Teclas",
+    "overviewDescription": "Guia completo de comandos para PC, celular e consoles, com atalhos ágeis de construção."
+  },
+  "community": {
+    "overviewTitle": "Comunidade e Cooperativo Multijogador",
+    "overviewDescription": "Trabalho em equipe para até 6 jogadores, grupo Roblox Big Chomp Games e comunidade no Discord."
+  }
+}
