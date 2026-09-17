@@ -1,6 +1,6 @@
 {
   "site": {
-    "name": "Build a Dino Defense Wiki",
+    "name": "builddinodefense Wiki",
     "shortName": "Build a Dino Defense",
     "tagline": "Complete Guides, Codes, Turrets & Defense Strategies",
     "description": "Your ultimate guide to Build a Dino Defense on Roblox! Explore active codes, base building, traps, turrets, dinosaur waves, and egg defense strategies.",
@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master the core mechanics from day one: learn basic controls, fortify your boundary walls, and understand how to protect your egg."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Traps & Turrets Setup",
+          "description": "Deploy deadly spike traps, automated sentry turrets, and choke-point defenses along enemy dinosaur assault paths."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Dino Waves & Boss Tactics",
+          "description": "Study incoming dinosaur wave patterns, counter aggressive rushers, and conquer massive boss encounters."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Build a Dino Defense."
+          "title": "Cash & Weapon Crates",
+          "description": "Maximize cash earnings per wave, unlock rare weapon crates, and upgrade personal firearms for critical defensive support."
         }
       ]
     },
@@ -62,78 +62,60 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Traps & Turrets",
+        "Dino Bosses",
+        "Defense Tier List"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first login to mastering base fortification and egg defense.",
+          "href": "/guide/build-a-dino-defense-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "Check for the latest working codes, cash rewards, and official updates.",
+          "href": "/guide/build-a-dino-defense-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Strategy",
+          "title": "Turret & Trap Database",
+          "description": "Complete defense structure guide with DPS, costs, ranges, and tactical synergy tips.",
+          "href": "/combat/build-a-dino-defense-strongest-defense"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Combat",
+          "title": "Dino Boss Tactics",
+          "description": "Strategies, weak points, and recommended weapon loadouts to conquer apex dinosaur bosses.",
+          "href": "/combat/build-a-dino-defense-boss"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Tier List",
+          "title": "Defense Tier List",
+          "description": "S-tier to C-tier rankings for all turrets, traps, and firearms in Build a Dino Defense.",
+          "href": "/guide/build-a-dino-defense-guide"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Walkthrough",
+          "title": "Complete Walkthrough",
+          "description": "Step-by-step wave survival guides and base layout walkthroughs for solo and co-op play.",
+          "href": "/guide/build-a-dino-defense-walkthrough"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Build a Dino Defense?",
       "paragraphs": [
-        "Build a Dino Defense is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Build a Dino Defense is an action-packed cooperative strategy and tower defense experience on Roblox developed by Big Chomp Games. Players team up in servers of up to 6 to construct impenetrable fortifications, lay tactical traps, install automated turrets, and battle relentless waves of ravenous dinosaurs to protect their precious egg.",
+        "Whether you are placing your first wooden barricade, cracking open high-tier weapon crates to blast raptors, or mastering complex maze layouts against giant dinosaur bosses, our wiki covers every system with verified stats, tier rankings, and battle-tested strategies."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Big Chomp Games"
         },
         {
           "label": "Platform",
@@ -141,158 +123,259 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Tower Defense & Strategy"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Total Visits",
+          "value": "3.3M+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Server Size",
+          "value": "6 Players"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "User Rating",
+          "value": "86.8%"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Peak CCU",
+          "value": "2.4K+"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Build a Dino Defense Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master your dinosaur survival base on Roblox with essential defense guides, verified codes, turret comparisons, wave breakdowns, and strategic upgrade paths.",
       "modules": [
         {
           "order": 1,
-          "name": "Build a Dino Defense Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "builddinodefense Codes",
+          "description": "Centralized collection of active, expired, and upcoming redemption codes for Build Dino Defense to claim free in-game cash and boosts.",
+          "href": "/guide/build-a-dino-defense-guide",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "COMINGSOON",
+              "detail": "Stay tuned for official code releases from Big Chomp Games",
+              "badge": "Upcoming"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "REDEEM",
+              "detail": "Redeem codes directly in the in-game settings menu",
+              "badge": "Active"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "REWARDS",
+              "detail": "Codes reward free cash, crate keys, and temporary speed boosts",
+              "badge": "Info"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "builddinodefense Beginner Guide",
+          "description": "Essential starter guide covering the core objective, controls, placing your first traps and turrets, defeating initial dino waves, and earning cash.",
+          "href": "/guide/build-a-dino-defense-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Surround and protect your dinosaur egg with sturdy perimeter walls"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Place tactical floor traps and automated sentry turrets along incoming paths"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Repel dinosaur assault waves using firearms and base defenses"
+            },
+            {
+              "label": "4",
+              "detail": "Collect cash bounty rewards to repair walls and upgrade your defense arsenal"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "builddinodefense Traps and Turrets",
+          "description": "Comprehensive overview of defensive trap and turret architectures, effective kill zone designs, and choke-point placements.",
+          "href": "/combat/build-a-dino-defense-strongest-defense",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Spike Trap",
+              "detail": "High burst physical puncture damage against light rushing raptors"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Sentry Turret",
+              "detail": "Rapid automated continuous projectile fire covering main choke points"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Reinforced Wall",
+              "detail": "Heavy structural roadblock funneling dinosaur waves into kill zones"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Laser Cannon",
+              "detail": "Heavy single-target armor-piercing beam designed for boss dinosaurs"
+            },
+            {
+              "label": "Slow Field",
+              "detail": "Cryo ground pad drastically reducing predator movement speed"
+            },
+            {
+              "label": "Mortar Blast",
+              "detail": "Long-range explosive area-of-effect artillery for clustered packs"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "builddinodefense Weapons and Crates",
+          "description": "Detailed breakdown of mystery crates and unlockable personal firearms to directly back up your defensive fortifications.",
+          "href": "/combat/build-a-dino-defense-dinosaur-attack",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Combat Rifle",
+              "detail": "Versatile all-around automatic firearm with reliable mid-range DPS"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Heavy Shotgun",
+              "detail": "Devastating close-range burst damage against breeched wall infiltrators"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Sniper Rifle",
+              "detail": "Extreme single-shot damage targeting high-threat apex predators"
+            },
+            {
+              "label": "Rocket Crate",
+              "detail": "Heavy explosive armament capable of decimating dense swarms"
+            },
+            {
+              "label": "Plasma Gun",
+              "detail": "Futuristic energy sidearm ignoring heavy dinosaur natural armor"
+            },
+            {
+              "label": "Weapon Crate",
+              "detail": "Mystery supply drops containing tiered firearm upgrades and perks"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "builddinodefense Dino Waves",
+          "description": "Dinosaur enemy compendium breaking down spawn patterns, unique abilities, and target priorities across escalating assault waves.",
+          "href": "/combat/build-a-dino-defense-giant-dinosaurs",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Swift Raptor",
+              "detail": "Fast agile flankers attempting to bypass outer wall defenses"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Armored Stego",
+              "detail": "Tanky frontline brute absorbing heavy incoming turret fire"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Spitting Spino",
+              "detail": "Ranged acid artillery attacking player walls from a safe distance"
+            },
+            {
+              "label": "Flying Ptero",
+              "detail": "Airborne raiders ignoring ground barricades to strike inner targets"
+            },
+            {
+              "label": "Tyrant Rex",
+              "detail": "Massive boss dinosaur capable of trampling basic barricades"
+            },
+            {
+              "label": "Frenzy Pack",
+              "detail": "Dense swarm waves requiring overlapping splash explosive traps"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "builddinodefense Defense Strategies",
+          "description": "Tactical coordination guide covering cash management, maze building, turret synergies, and safeguarding critical egg zones.",
+          "href": "/combat/build-a-dino-defense-protect-base",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Funneling",
+              "detail": "Construct winding maze corridors forcing dinos through trap gauntlets"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Choke Point",
+              "detail": "Concentrate high-DPS turrets at narrow bends for maximum damage"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Layered Defense",
+              "detail": "Build secondary inner perimeter walls as fail-safe egg protection"
+            },
+            {
+              "label": "Economy Balance",
+              "detail": "Reinvest early wave cash rewards immediately into automated firepower"
+            },
+            {
+              "label": "Team Roles",
+              "detail": "Designate team builders, weapon gunners, and repair specialists"
+            },
+            {
+              "label": "Egg Sanctuary",
+              "detail": "Never leave the core egg unwatched during chaotic elite boss phases"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "builddinodefense Tier List",
+          "description": "Community rankings and evaluation of defense structures, turrets, and personal weaponry evaluated by effectiveness per cost.",
+          "href": "/guide/build-a-dino-defense-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Heavy Laser Cannon & Cryo Trap — Highest crowd control and single-target boss DPS"
+            },
+            {
+              "label": "A",
+              "detail": "Sentry Turret & Spike Gauntlet — Essential cost-effective wave clearing core"
+            },
+            {
+              "label": "B",
+              "detail": "Assault Barricades & Shotgun — Reliable early-to-mid wave holding power"
+            },
+            {
+              "label": "C",
+              "detail": "Basic Wooden Fence & Pistol — Starter gear replaced as soon as cash permits"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "builddinodefense Updates",
+          "description": "Tracking version releases, patch notes, new dino species, balance adjustments, and official Big Chomp Games updates.",
+          "href": "/guide/build-a-dino-defense-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Launch Version: 6-player co-op egg defense, basic traps, and initial dino waves"
+            },
+            {
+              "label": "2",
+              "detail": "New Boss Additions: High-difficulty apex predator wave challenges"
+            },
+            {
+              "label": "3",
+              "detail": "Weapon Expansion: Additional mystery crate weapon tiers and firearm cosmetics"
+            },
+            {
+              "label": "4",
+              "detail": "Balance Patches: Turret DPS optimizations and wall durability adjustments"
             }
           ]
         }
@@ -303,24 +386,24 @@
       "description": "Quick answers to the most common questions about Build a Dino Defense.",
       "items": [
         {
-          "question": "What is Build a Dino Defense?",
-          "answer": "Build a Dino Defense is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Build a Dino Defense on Roblox?",
+          "answer": "Build a Dino Defense is a multiplayer strategy tower defense game on Roblox by Big Chomp Games where up to 6 players build fortified bases, lay traps, deploy turrets, and fend off hungry dinosaur waves to protect their egg."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do you play Build a Dino Defense and protect the egg?",
+          "answer": "In Build a Dino Defense, players spend cash earned from defeating dinosaurs to construct perimeter walls, position automated turrets, place ground traps, and use personal firearms to prevent dinosaurs from reaching and destroying the egg."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Where can I find working Build a Dino Defense codes?",
+          "answer": "All active Build a Dino Defense codes and redemption guides are monitored and updated on our wiki. As new codes are released by Big Chomp Games, they are verified and listed immediately."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What are the best turrets and traps in Build a Dino Defense?",
+          "answer": "Laser Cannons and Cryo Slow Traps rank at the top of the tier list for late-game waves in Build a Dino Defense, while automated Sentry Turrets and Spike Traps offer the best early-game cost efficiency."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do you survive dinosaur boss waves in Build a Dino Defense?",
+          "answer": "To defeat boss dinosaurs in Build a Dino Defense, build layered choke-point walls, combine slow traps with heavy single-target laser fire, and coordinate with teammates using high-tier firearms from weapon crates."
         }
       ]
     },
