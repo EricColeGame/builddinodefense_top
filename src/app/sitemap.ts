@@ -28,12 +28,44 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const paths = [...staticPaths, ...dynamicPaths];
 
+  const categoryPaths = new Set([
+    "/guide",
+    "/mechanics",
+    "/combat",
+    "/progression",
+    "/controls",
+    "/community",
+  ]);
+
+  const legalPaths = new Set([
+    "/privacy-policy",
+    "/terms-of-service",
+    "/copyright",
+    "/about",
+  ]);
+
   return routing.locales.flatMap((locale) =>
-    paths.map((path) => ({
-      url: `${siteUrl}/${locale}${path === "/" ? "" : path}`,
-      lastModified: new Date(),
-      changeFrequency: path === "/" ? ("daily" as const) : ("weekly" as const),
-      priority: path === "/" ? 1 : 0.6,
-    })),
+    paths.map((path) => {
+      let priority = 0.6;
+      let changeFrequency: "daily" | "weekly" | "monthly" = "weekly";
+
+      if (path === "/") {
+        priority = 1.0;
+        changeFrequency = "daily";
+      } else if (categoryPaths.has(path)) {
+        priority = 0.8;
+        changeFrequency = "weekly";
+      } else if (legalPaths.has(path)) {
+        priority = 0.3;
+        changeFrequency = "monthly";
+      }
+
+      return {
+        url: `${siteUrl}/${locale}${path === "/" ? "" : path}`,
+        lastModified: new Date(),
+        changeFrequency,
+        priority,
+      };
+    }),
   );
 }
